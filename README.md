@@ -5,7 +5,9 @@
 </div>
 ##
 <div>
+  
   ![Snake animation](https://github.com/Gu3001/Gu3001/blob/output/github-contribution-grid-snake.svg)  
+
 </div>
 <!--
 **Gu3001/Gu3001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
