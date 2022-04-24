@@ -2,7 +2,7 @@
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gu3001&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gu3001&layout=compact&langs_count=25&theme=radical"/>
-  ![Snake animation](https://github.com/Gu3001/Gu3001/blob/github-contribuitions-grid-snake.svg)  
+  ![Snake animation](https://github.com/Gu3001/Gu3001/blob/output/github-contribuitions-grid-snake.svg)  
 </div>
 <!--
 **Gu3001/Gu3001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
