@@ -1,8 +1,8 @@
 ### Seja Bem-Vindo, eu sou Luiz Gustavo👋
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gu3001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github.com/Gu3001/github-readme-stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gu3001&hide=contribs,prs"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gu3001&layout=compact&langs_count=168theme=dracula"/>
+
 </div>
 <!--
 **Gu3001/Gu3001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
