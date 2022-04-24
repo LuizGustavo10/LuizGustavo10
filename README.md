@@ -2,6 +2,7 @@
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gu3001"/>
   <img height="180em" src="https://github.com/Gu3001/github-readme-stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gu3001&hide=contribs,prs"/>
 </div>
 <!--
 **Gu3001/Gu3001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
