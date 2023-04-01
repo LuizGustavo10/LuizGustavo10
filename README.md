@@ -1,5 +1,4 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6699ff&height=120&section=header"/>
-### Seja Bem-Vindo, eu sou Luiz Gustavo👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6699ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Luiz+Gustavo;I'm+22+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
