@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6e42ff&height=180&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6e42ff&height=80&section=header"/>
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6699ff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Luiz+Gustavo;eu+sou+instrutor+na+instituição+Senac;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -21,4 +21,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,php,java,flutter)](https://skillicons.dev)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6e42ff&height=180&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6e42ff&height=80&section=footer"/>
