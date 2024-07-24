@@ -5,9 +5,9 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LuizGustavo10&theme=react-dark)]([https://github.com/Ashutosh00710/github-readme-activity-graph])
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=LuizGustavo10&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="240em" src="https://github-readme-stats.vercel.app/api?username=LuizGustavo10&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=LuizGustavo10&layout=donut-vertical&langs_count=25&theme=algolia"/>
+  <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs?username=LuizGustavo10&layout=donut-vertical&langs_count=25&theme=algolia"/>
   
 </div>
 
