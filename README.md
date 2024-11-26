@@ -21,4 +21,19 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,php,java,flutter)](https://skillicons.dev)
 
+<!--   profile-green-animate -->
+
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+<!--   grid-snake ![](https://github.com/idimetrix/idimetrix/blob/output/github-contribution-grid-snake.svg) -->
+
+<!--  TOP codersrank для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/idimetrix-->
+
+<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=LuizGustavo10&show-other-skills=true" width="auto"></img>
+
+<!--  2d history skills для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/idimetrix-->
+
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=LuizGustavo10&show-other-skills=true" width="auto"></img>
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6e42ff&height=80&section=footer"/>
