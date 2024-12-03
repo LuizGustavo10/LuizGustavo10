@@ -16,6 +16,10 @@
 <div align="center">
 <br><p align="centre"><b>Contador de visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{LuizGustavo10}/count.svg" /></p> 
+<p align="center"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6e42ff&height=80&section=footer"/></p> 
+
+ 
+
 <br>
 </div>
 
@@ -26,4 +30,3 @@
 
 <a href="https://info.flagcounter.com/IE40"><img src="https://s01.flagcounter.com/count2/IE40/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6e42ff&height=80&section=footer"/>
