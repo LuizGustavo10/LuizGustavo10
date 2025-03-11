@@ -23,7 +23,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,php,java,flutter)](https://skillicons.dev)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=LuizGustavo10)
+
 <!--   profile-green-animate -->
 
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6e42ff&height=80&section=footer"/>
+
 
