@@ -23,7 +23,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,php,java,flutter)](https://skillicons.dev)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=LuizGustavo10)
+![GitHub Streak](https://streak-stats.demolab.com/?user=LuizGustavo10&cache_seconds=86400)
 
 
 <!--   profile-green-animate -->
