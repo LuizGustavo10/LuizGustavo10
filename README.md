@@ -10,7 +10,7 @@
 
 <!-- CARD Estatísticas -->
 <div align="center" style="border: 1px solid #ccc; border-radius: 15px; padding: 20px; margin: 20px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
-  <h2 align="center">📊 Estatísticas GitHub</h2>
+  <h2 align="center"> Estatísticas GitHub</h2>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizGustavo10&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=LuizGustavo10&layout=donut-vertical&langs_count=25&theme=algolia"/>
 </div>
@@ -23,27 +23,20 @@
 
 <!-- CARD Skills -->
 <div align="center" style="border: 1px solid #ccc; border-radius: 15px; padding: 20px; margin: 20px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
-  <h2 align="center">🛠 Minhas Skills</h2>
+  <h2 align="center"> Minhas Skills</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,python,php,java,flutter" />
   </a>
 </div>
 
-<!-- CARD Streak -->
-<div align="center" style="border: 1px solid #ccc; border-radius: 15px; padding: 20px; margin: 20px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
-  <h2 align="center">📈 GitHub Streak</h2>
-  <img src="https://streak-stats.demolab.com?user=LuizGustavo10&theme=algolia&date_format=j%20M%5B%20Y%5D"/>
-</div>
-
 <!-- CARD Snake -->
 <div align="center" style="border: 1px solid #ccc; border-radius: 15px; padding: 20px; margin: 20px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
-  <h2 align="center">🐍 Snake Game Contribution</h2>
   <img src="https://github.com/LuizGustavo10/LuizGustavo10/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
 <!-- CARD Contador -->
 <div align="center" style="border: 1px solid #ccc; border-radius: 15px; padding: 20px; margin: 20px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
-  <h2 align="center">👁️ Contador de Visitantes</h2>
+  <h2 align="center"> Contador de Visitantes</h2>
   <img src="https://profile-counter.glitch.me/{LuizGustavo10}/count.svg" />
 </div>
 
