@@ -1,5 +1,5 @@
 <!-- Cabeçalho animado -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7b68ee&height=80&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=80&section=header"/>
 
 <!-- Saudação -->
 <p align="center">
