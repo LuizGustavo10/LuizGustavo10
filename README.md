@@ -16,7 +16,7 @@
 
   <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=LuizGustavo10&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=LuizGustavo10&show_icons=true&theme=algolia&count_private=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
